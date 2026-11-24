@@ -80,7 +80,7 @@ Os formulários de contato e de proposta também são demonstrativos. Eles não 
 
 9 IMAGENS E VÍDEO DE APRESENTAÇÃO
 
-As imagens do site são carregadas de endereços do Unsplash. As capturas de tela do projeto e o link do vídeo de apresentação podem ser incluídos nesta seção quando estiverem disponíveis.
+As imagens do site estão disponíveis no Repositório do Github
 Link do vídeo: https://drive.google.com/file/d/1yObnfp6ddgocbe9MpLKXsLy7TSyHNc8P/view?usp=sharing
 
 
