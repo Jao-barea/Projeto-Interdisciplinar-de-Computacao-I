@@ -88,7 +88,14 @@ Os formulários de contato e de proposta também são demonstrativos. Eles não 
 
 ## Imagens e vídeo de apresentação
 
-As imagens do site são carregadas de endereços do Unsplash. Adicione capturas de tela do projeto e o link do vídeo de apresentação quando estiverem disponíveis.
+<img width="1600" height="900" alt="5" src="https://github.com/user-attachments/assets/1aab99f4-c0ab-423f-8285-b00e3eea830b" />
+<img width="1600" height="902" alt="4" src="https://github.com/user-attachments/assets/98468072-549e-4cfe-aed7-8032ae5b6b91" />
+<img width="1600" height="900" alt="3" src="https://github.com/user-attachments/assets/8bef4762-70e3-4817-8f58-2055f02ddf34" />
+<img width="1600" height="900" alt="8" src="https://github.com/user-attachments/assets/25256def-6529-4d85-aa2c-79e8c4459971" />
+<img width="1600" height="900" alt="7" src="https://github.com/user-attachments/assets/5d4d5475-fa4d-4790-b53e-98bf495d33ad" />
+<img width="1600" height="900" alt="6" src="https://github.com/user-attachments/assets/d2ea72f8-02e9-4d33-a633-9c7794813d75" />
+<img width="1600" height="900" alt="2" src="https://github.com/user-attachments/assets/7557f18d-fe96-40cb-8f1c-370344baeabc" />
+<img width="1600" height="901" alt="1" src="https://github.com/user-attachments/assets/a9415267-0a96-4ed7-9728-33abc4deb799" />
 Link do vídeo: https://drive.google.com/file/d/1yObnfp6ddgocbe9MpLKXsLy7TSyHNc8P/view?usp=sharing
 
 ## Repositório
