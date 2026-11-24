@@ -46,7 +46,7 @@ Projeto acadêmico do PIC I que apresenta os serviços de uma empresa fictícia 
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/Jao-barea/Projeto-Interdisciplinar-de-Computacao-I.git
+   git clone https://github.com/Jao-barea/Projeto-Interdisciplinar-de-Computa-o-I.git
    ```
 
 2. Abra a pasta do projeto.
@@ -87,31 +87,18 @@ Essas credenciais não devem ser usadas para proteger dados reais.
 Os formulários de contato e de proposta também são demonstrativos. Eles não enviam mensagens ou pedidos para um serviço externo.
 
 ## Imagens e vídeo de apresentação
+<img width="1600" height="901" alt="1" src="https://github.com/user-attachments/assets/4b6a2da4-8fc9-4869-9981-cf6631e311b3" />
+<img width="1600" height="900" alt="2" src="https://github.com/user-attachments/assets/ec4c6bdb-25bf-4c7a-af9c-9ba25df77511" />
+<img width="1600" height="900" alt="3" src="https://github.com/user-attachments/assets/37cbd7b8-66fd-4be8-a306-ab3028f90c91" />
+<img width="1600" height="902" alt="4" src="https://github.com/user-attachments/assets/2d8e4728-0563-4ef7-b609-12afa80ef9d4" />
+<img width="1600" height="900" alt="5" src="https://github.com/user-attachments/assets/62380e8e-c39f-42be-bd02-b869098db579" />
+<img width="1600" height="900" alt="6" src="https://github.com/user-attachments/assets/65e008fe-6b2f-4b47-9f0e-3f851a3d0715" />
+<img width="1600" height="900" alt="7" src="https://github.com/user-attachments/assets/4090bf72-0216-4573-ba33-90e194de35bc" />
+<img width="1600" height="900" alt="8" src="https://github.com/user-attachments/assets/12a98467-e24a-47c6-8adc-7bbf1c04dcce" />
 
-As imagens decorativas do site são carregadas de endereços do Unsplash. As capturas abaixo mostram as principais telas e funcionalidades do projeto.
 
-<p align="center">
-  <img src="docs/screenshots/01-inicio.jpeg" alt="Página inicial do site G.S Engenharia Civil" width="48%">
-  <img src="docs/screenshots/02-servicos-portfolio.jpeg" alt="Serviços e início do portfólio de obras" width="48%">
-</p>
-
-<p align="center">
-  <img src="docs/screenshots/03-portfolio.jpeg" alt="Portfólio de obras" width="48%">
-  <img src="docs/screenshots/04-simulador-venda.jpeg" alt="Simulador de custos e formulário de proposta" width="48%">
-</p>
-
-<p align="center">
-  <img src="docs/screenshots/05-pacotes-obras.jpeg" alt="Pacotes de obras disponíveis" width="48%">
-  <img src="docs/screenshots/06-area-cliente.jpeg" alt="Área do cliente com andamento e anotações da obra" width="48%">
-</p>
-
-<p align="center">
-  <img src="docs/screenshots/07-portal-engenheiro.jpeg" alt="Tela de acesso ao portal do engenheiro" width="48%">
-  <img src="docs/screenshots/08-fale-conosco.jpeg" alt="Página de contato" width="48%">
-</p>
-
-Vídeo de apresentação: [Assistir no Google Drive](https://drive.google.com/file/d/1yObnfp6ddgocbe9MpLKXsLy7TSyHNc8P/view?usp=sharing)
+Link do vídeo: https://drive.google.com/file/d/1yObnfp6ddgocbe9MpLKXsLy7TSyHNc8P/view?usp=sharing
 
 ## Repositório
 
-[Projeto G.S Engenharia Civil no GitHub](https://github.com/Jao-barea/Projeto-Interdisciplinar-de-Computacao-I)
+[Projeto G.S Engenharia Civil no GitHub](https://github.com/Jao-barea/Projeto-Interdisciplinar-de-Computa-o-I)
